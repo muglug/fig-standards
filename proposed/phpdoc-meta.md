@@ -91,7 +91,7 @@ Cons:
 
 ### 5.3 Working group members
 
- * Alexey Gopachenko
+ * Alexey Gopachenko - [PhpStorm](https://www.jetbrains.com/phpstorm/)
  * Matthew Brown
  * Ondrej Mirtes
 
